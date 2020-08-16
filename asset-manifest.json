@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/VirusTracker-react/static/css/main.3da612a3.chunk.css",
+    "main.js": "/VirusTracker-react/static/js/main.02303c55.chunk.js",
+    "main.js.map": "/VirusTracker-react/static/js/main.02303c55.chunk.js.map",
+    "runtime-main.js": "/VirusTracker-react/static/js/runtime-main.5e343422.js",
+    "runtime-main.js.map": "/VirusTracker-react/static/js/runtime-main.5e343422.js.map",
+    "static/js/2.f8bf944b.chunk.js": "/VirusTracker-react/static/js/2.f8bf944b.chunk.js",
+    "static/js/2.f8bf944b.chunk.js.map": "/VirusTracker-react/static/js/2.f8bf944b.chunk.js.map",
+    "index.html": "/VirusTracker-react/index.html",
+    "precache-manifest.4886425250de1259f1ff4d0c13d50d85.js": "/VirusTracker-react/precache-manifest.4886425250de1259f1ff4d0c13d50d85.js",
+    "service-worker.js": "/VirusTracker-react/service-worker.js",
+    "static/css/main.3da612a3.chunk.css.map": "/VirusTracker-react/static/css/main.3da612a3.chunk.css.map",
+    "static/js/2.f8bf944b.chunk.js.LICENSE.txt": "/VirusTracker-react/static/js/2.f8bf944b.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/VirusTracker-react/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e343422.js",
+    "static/js/2.f8bf944b.chunk.js",
+    "static/css/main.3da612a3.chunk.css",
+    "static/js/main.02303c55.chunk.js"
+  ]
+}
